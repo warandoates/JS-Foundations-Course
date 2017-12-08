@@ -1,4 +1,4 @@
-#Week 4: DOM, CSS, HTML
+# Week 4: DOM, CSS, HTML
 
 
 With CSS, we learned how to apply multiple css properties to elements, how to add pseudo-classes to change styling when state changes,
