@@ -1,0 +1,34 @@
+.my-button {
+  display: block;
+  color: white;
+  font-size: 1.25rem;
+  padding: .75rem 1.25rem;
+  margin: 2rem auto;
+  border-radius: .5rem;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.my-button-standard {
+  background: #64908A; /* greenish-blue */
+  border: 2px solid #4c6d68;
+}
+
+.my-button-error {
+  background: #351330; /* dark purple */
+  border: 2px solid #270e23;
+}
+
+.my-button-warning {
+  background: #CC2A41; /* red */
+  border: 2px solid #ad2437;
+}
+
+.my-button-small {
+  font-size: 85%;
+  padding: .5rem .75rem;
+}
+
+.my-button-large {
+  font-size: 160%;
+  padding: 1rem 2rem;
+}
