@@ -29,6 +29,9 @@ Using Fetch: [MDN: Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch
 #### Projects and Examples:
 
 [drumKit](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/drumKit)
+
 [jQuery: Part 1](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/jQuery-Practice1)
+
 [jQuery: Part 2](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/jQuery-Practice2)
+
 [AJAX DEMO](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/ajax-example)
