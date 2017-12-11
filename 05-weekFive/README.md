@@ -14,11 +14,14 @@ we used a native JavaScript method called fetch(). Fetch is a much better utilit
 Lecture Slides: 
 
 [jQuery](https://docs.google.com/presentation/d/1jc6AaiGLl9l0Hwh4C3pZTuVX_gARxeMzoxqhOZ-O-ps/edit?usp=sharing)
+
 [JSON/AJAX](https://docs.google.com/presentation/d/1VuGYwbSuD5_G_0xfFPN9bxmhDr7D3glwc2hpWZJndeM/edit?usp=sharing)
 
 ### Resources:
 Unit 16: [Interacting with jQuery](https://learn.galvanize.com/cohorts/336/units/3967)
+
 Unit 17: [DOM manipulation with jQuery](https://learn.galvanize.com/cohorts/336/units/3968)
+
 Unit 18: [JSON and transmitting data](https://learn.galvanize.com/cohorts/336/units/3969)
 
 
