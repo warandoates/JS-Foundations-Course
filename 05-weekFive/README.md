@@ -24,5 +24,11 @@ Unit 17: [DOM manipulation with jQuery](https://learn.galvanize.com/cohorts/336/
 
 Unit 18: [JSON and transmitting data](https://learn.galvanize.com/cohorts/336/units/3969)
 
+Using Fetch: [MDN: Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 #### Projects and Examples:
+
+[drumKit](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/drumKit)
+[jQuery: Part 1](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/jQuery-Practice1)
+[jQuery: Part 2](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/jQuery-Practice2)
+[AJAX DEMO](https://github.com/warandoates/JS-Foundations-Course/tree/master/05-weekFive/ajax-example)
